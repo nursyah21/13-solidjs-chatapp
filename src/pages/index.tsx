@@ -1,5 +1,5 @@
 import solidLogo from "../assets/solid.svg";
-import viteLogo from "/vite.svg";
+import viteLogo from "../assets/vite.svg";
 import { useStore } from "../stores";
 
 export default function Page() {
@@ -27,7 +27,7 @@ export default function Page() {
           </div>
 
           <div class="">
-          <a href="/test">test</a>
+            <a href="/test">test</a>
           </div>
         </div>
       </div>
